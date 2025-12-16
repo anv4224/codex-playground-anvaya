@@ -12,3 +12,8 @@ This repository is just a playground for learning Codex and AGENTS.md.
 - Prefer readability over clever or compact code.
 - Add short comments in Python code when you introduce something new.
 - If you're not sure what the user wants, ask a clarifying question.
+
+## Style preferences
+- Use clear, neutral English.
+- Add a docstring to each new function.
+- At the end of each task, summarize what changed in 2–3 bullet points.
